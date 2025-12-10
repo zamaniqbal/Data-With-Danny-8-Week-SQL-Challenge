@@ -4,10 +4,11 @@ This repository contains my solutions to the 8 Week SQL Challenge, a collection 
 
 Full credit goes to Danny Ma — you can find the original challenges [here](https://8weeksqlchallenge.com/)
 
-Below is a table with links to each of my completed solutions.
+Below are the links to each of my completed solutions.
 
 ---
 
 # Solutions
+
 
 [Case Study 1 - Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)
