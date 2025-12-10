@@ -11,5 +11,6 @@ Below are the links to each of my completed solutions.
 # Solutions
 
 Case Study 1 - Danny's Diner: 
-    - [The Challenge]((https://8weeksqlchallenge.com/case-study-1/))
+    - [The Challenge](https://8weeksqlchallenge.com/case-study-1/)
+    
     - [SQL Script ❄️](https://github.com/zamaniqbal/Data-With-Danny-8-Week-SQL-Challenge/blob/main/Case%20Study%201%20-%20Dannys%20Diner/Solutions.sql)
