@@ -18,5 +18,5 @@ Case Study 1 - Danny's Diner:
 
 Case Study 2 - Pizza Runner: 
 - [The Challenge](https://8weeksqlchallenge.com/case-study-2/)
-- [Section A](https://github.com/zamaniqbal/Data-With-Danny-8-Week-SQL-Challenge/blob/main/Case%20Study%201%20-%20Dannys%20Diner/Solutions.sql)
-- [Section B](https://github.com/zamaniqbal/Data-With-Danny-8-Week-SQL-Challenge/blob/main/Case%20Study%201%20-%20Dannys%20Diner/Solutions.sql)
+- [SQL Script ❄️ - Section A](https://github.com/zamaniqbal/Data-With-Danny-8-Week-SQL-Challenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/week2a_solutions.sql)
+- [SQL Script ❄️ - Section B](https://github.com/zamaniqbal/Data-With-Danny-8-Week-SQL-Challenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/week2b_solutions.sql)
