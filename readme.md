@@ -20,3 +20,9 @@ Case Study 2 - Pizza Runner:
 - [The Challenge](https://8weeksqlchallenge.com/case-study-2/)
 - [SQL Script ❄️ - Section A](https://github.com/zamaniqbal/Data-With-Danny-8-Week-SQL-Challenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/week2a_solutions.sql)
 - [SQL Script ❄️ - Section B](https://github.com/zamaniqbal/Data-With-Danny-8-Week-SQL-Challenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/week2b_solutions.sql)
+
+---
+
+Case Study 3 - Foodie Fi: 
+- [The Challenge](https://8weeksqlchallenge.com/case-study-3/)
+- [SQL Script ❄️](https://github.com/zamaniqbal/Data-With-Danny-8-Week-SQL-Challenge/blob/main/Case%20Study%203%20-%20Foodie%20Fi/Solutions.sql)
